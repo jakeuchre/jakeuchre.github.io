@@ -3,7 +3,7 @@ layout: post
 title: 10 hal yang harus dipertimbangkan ketika memilih POS ritel
 published: true
 ---
-Baik Anda mendirikan bisnis ritel untuk pertama kalinya, atau Anda adalah pedagang berpengalaman, memiliki POS yang tepat sangat penting untuk kesuksesan Anda. POS, atau sistem Point-of Sale Anda adalah komponen utama bisnis Anda, dan lebih dari sekadar cara bagi pelanggan untuk membayar pembelian mereka. Sistem POS yang hebat dapat menggabungkan dan menyederhanakan operasi bisnis penting serta memberi Anda aliran data yang stabil yang dapat Anda gunakan untuk membuat keputusan bisnis yang tepat. Beberapa kemampuan sistem POS yang berkualitas antara lain:
+Baik Anda mendirikan bisnis ritel untuk pertama kalinya, atau Anda adalah pedagang berpengalaman, memiliki POS yang tepat sangat penting untuk kesuksesan Anda. POS, atau sistem Point-of Sale Anda adalah komponen utama bisnis Anda, dan lebih dari sekadar cara bagi pelanggan untuk membayar pembelian mereka. [Sistem POS](https://www.dealpos.co.id/) yang hebat dapat menggabungkan dan menyederhanakan operasi bisnis penting serta memberi Anda aliran data yang stabil yang dapat Anda gunakan untuk membuat keputusan bisnis yang tepat. Beberapa kemampuan sistem POS yang berkualitas antara lain:
 
 - Manajemen persediaan / Stock
 - Akuntansi
