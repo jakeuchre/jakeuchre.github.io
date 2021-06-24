@@ -1,3 +1,8 @@
+---
+layout: post
+title: Apa Itu Branding? dan Bagaimana Cara Kerjanya?
+published: true
+---
 ## Apa Itu Branding?
 
 Ketika berbicara [tentang branding](https://www.komunikasia.com/), banyak yang akan terburu-buru mendefinisikan istilah dengan desain logo, desain situs web, popularitas sosial, dan kampanye promosi.
