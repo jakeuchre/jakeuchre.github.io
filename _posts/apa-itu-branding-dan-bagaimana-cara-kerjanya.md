@@ -112,7 +112,3 @@ Band ini berfungsi sebagai alat pelacak, dan begitu orang tua mengunduh aplikasi
 
 
 Perusahaan menawarkan solusi kepada orang tua untuk perlindungan anak-anak
-
-
-
-
